@@ -7,9 +7,10 @@ In this repository you will see a dashboard on  Road Traffic analysis
 I have performed some Exploratory Data analsysis(EDA) on the dataset provided
 
 The exploratory data analysis includes :-
+
 1.Data modeling
 -It is the process of creating a relationship  between common columns of multiple tables
-In this tables I have created one table manually(Name-Calendar) which include dates and time and years of Casualties
+In this tables I have created one table manually(Name-Adates) which include dates and time and years of Casualties
 and create a relation between original data and manually designed table.
 
 2.Data visuallization

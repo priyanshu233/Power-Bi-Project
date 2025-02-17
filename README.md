@@ -1,5 +1,5 @@
 # Power-Bi-Project
-This reposotory  contains  a power-bi dashboard on  the road traffic anlaysis
+This reposotory  contains  a power-bi dashboard on  the road accident anlaysis
 
 Brief Description :-
 

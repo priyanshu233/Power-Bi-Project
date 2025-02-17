@@ -3,7 +3,7 @@ This reposotory  contains  a power-bi dashboard on  the road accident anlaysis
 
 Brief Description :-
 
-In this repository you will see a dashboard on  Road Traffic analysis
+In this repository you will see a dashboard on  Road Accident analysis
 I have performed some Exploratory Data analsysis(EDA) on the dataset provided
 
 The exploratory data analysis includes :-
